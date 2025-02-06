@@ -1,5 +1,3 @@
 **smap** | Smart Processes
 
----
-
-**WORK IN PROGRESS**
+WORK IN PROGRESS
